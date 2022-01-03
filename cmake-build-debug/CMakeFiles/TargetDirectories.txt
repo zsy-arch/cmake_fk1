@@ -1,0 +1,8 @@
+D:/CODE/CLionProjects2/cmake_fk1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CODE/CLionProjects2/cmake_fk1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/CODE/CLionProjects2/cmake_fk1/cmake-build-debug/lib/CMakeFiles/rebuild_cache.dir
+D:/CODE/CLionProjects2/cmake_fk1/cmake-build-debug/lib/CMakeFiles/cmake_fk1_lib.dir
+D:/CODE/CLionProjects2/cmake_fk1/cmake-build-debug/lib/CMakeFiles/edit_cache.dir
+D:/CODE/CLionProjects2/cmake_fk1/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+D:/CODE/CLionProjects2/cmake_fk1/cmake-build-debug/src/CMakeFiles/cmake_fk1.dir
+D:/CODE/CLionProjects2/cmake_fk1/cmake-build-debug/src/CMakeFiles/edit_cache.dir

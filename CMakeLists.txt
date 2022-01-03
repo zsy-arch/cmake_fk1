@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.20)
+project(cmake_fk1)
+set(CMAKE_WINDOWS_EXPORT_ALL_SYMBOLS ON)
+set(CMAKE_CXX_STANDARD 14)
+add_subdirectory(./lib)
+add_subdirectory(./src)
+target_link_libraries(cmake_fk1 cmake_fk1_lib)

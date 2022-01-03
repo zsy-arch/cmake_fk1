@@ -1,0 +1,6 @@
+# ninja log v5
+1	85	6628947964793401	lib/CMakeFiles/cmake_fk1_lib.dir/my_math.cpp.obj	e64f0255c9ffd233
+6	448	6628947968423857	src/CMakeFiles/cmake_fk1.dir/main.cpp.obj	f2033e87efe307a
+87	656	6628947970359041	cmake_fk1_lib.dll	9b2561a92371c7a6
+87	656	6628947970359041	lib/cmake_fk1_lib.lib	9b2561a92371c7a6
+656	1002	6628947973814492	cmake_fk1.exe	242a422d9217301a
